@@ -2,4 +2,4 @@
 
 Inspired by makeup.
 
-![Makeup Syntax Screenshot](https://github.com/snowydad/makeup-syntax/blob/master/makeup-syntax-screenshot.png)
+![Makeup Syntax Screenshot](https://github.com/snowydad/makeup-syntax/master/makeup-syntax-screenshot.png)
